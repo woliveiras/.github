@@ -1,6 +1,6 @@
 # .github
 
-Simple template for starting projects
+Simple template for starting projects with GitHub Actions, funding, issue and pull request template and Dependabot.
 
 ## How to use this template
 
