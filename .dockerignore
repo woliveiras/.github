@@ -1,0 +1,37 @@
+# Git
+
+.git
+.gitignore
+.gitattributes
+.github
+
+# Editor
+
+.vscode
+.editorconfig
+
+# Docker
+
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# ENV
+
+.env
+
+# Documentation
+
+README.md
+CHANGELOG.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+SECURITY.md
+
+# Reports
+
+.reports/
+
+# Example files
+
+public/*.example.*
