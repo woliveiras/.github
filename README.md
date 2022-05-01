@@ -8,9 +8,12 @@ Click in **use this template** on GitHub interface.
 
 ## What you need to do with this template before start
 
-- update the files whith your information
+- update the files with your preferences
   - FUNDING.yml
   - ISSUE_TEMPLATE.md
+  - CODE_OF_CONDUCT.md
   - .gitignore
+  - .dockerignore
+  - .editorconfig
 
-The `dependabot.yml` and `PULL_REQUEST_TEMPLATE.md` is done.
+The `dependabot.yml`, `.gitattributes` and `PULL_REQUEST_TEMPLATE.md` is "done".
