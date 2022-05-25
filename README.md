@@ -15,5 +15,6 @@ Click in **use this template** on GitHub interface.
   - .gitignore
   - .dockerignore
   - .editorconfig
+- create [secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) to [`workflows/dependabot-auto-merge`](./.github/workflows/dependabot-automerge.yml)
 
 The `dependabot.yml`, `.gitattributes` and `PULL_REQUEST_TEMPLATE.md` is "done".
