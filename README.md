@@ -2,6 +2,8 @@
 
 Simple template for starting projects with GitHub Actions, funding, issue and pull request template and Dependabot.
 
+> Don't forget to write a awesome README for your project.
+
 ## How to use this template
 
 Click in **use this template** on GitHub interface.
